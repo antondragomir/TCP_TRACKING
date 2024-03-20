@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "TCP_TRACKING": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
